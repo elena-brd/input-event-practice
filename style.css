@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #d5bdaf;
+    color: #333;
+    line-height: 1.4;
+}
+
+.container {
+    background: #f5ebe0;
+    width: 700px;
+    margin: 15rem auto;
+    padding: 3rem;
+    border-radius: 5px;
+}
+
+h1 {
+    padding-bottom: 1rem;
+}
+
+input[type="text"] {
+    padding: 0.5rem 0.5rem;
+    width: 40%;
+    border: 3px solid #d6ccc2;
+    border-radius: 5px;
+}
